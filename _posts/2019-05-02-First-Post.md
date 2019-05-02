@@ -18,3 +18,4 @@ title:
 <li>Bayesian Statistics</li>
 </ul>
 
+![Have Fun!](/images/dogmeme.png)
