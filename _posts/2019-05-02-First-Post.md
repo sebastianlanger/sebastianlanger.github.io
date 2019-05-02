@@ -6,9 +6,9 @@ title:
 
 <h1>The 5 Essential Insights about Statistics Data Scientists Need to Know!</h1>
 
-<p>Statistics can be a useful asset when playing out the specialty of Data Science (DS). From an abnormal state see, measurements is the utilization of science to perform specialized examination of information. An essential representation, for example, a bar outline may give you some abnormal state data, however with insights we get the chance to work on the information in a substantially more data driven and focused on way. The math included causes us structure solid decisions about our information instead of simply guesstimating. </p>
+<p>Statistics can be a powerful tool when performing the art of Data Science (DS). From a high-level view, statistics is the use of mathematics to perform technical analysis of data. A basic visualisation such as a bar chart might give you some high-level information, but with statistics we get to operate on the data in a much more information-driven and targeted way. The math involved helps us form concrete conclusions about our data rather than just guesstimating.</p>
 
-<p>Utilizing measurements, we can increase further and all the more fine grained bits of knowledge into how precisely our information is organized and dependent on that structure how we can ideally apply other information science systems to get much more data. Today, we're going to take a gander at 5 fundamental measurements ideas that information researchers need to know and how they can be connected generally viably.</p>
+<p>Using statistics, we can gain deeper and more fine grained insights into how exactly our data is structured and based on that structure how we can optimally apply other data science techniques to get even more information. </p>
 
 <ul>
 <li>Statistical Features</li>
@@ -18,4 +18,3 @@ title:
 <li>Bayesian Statistics</li>
 </ul>
 
-![Have Fun!](/images/dogmeme.png)
